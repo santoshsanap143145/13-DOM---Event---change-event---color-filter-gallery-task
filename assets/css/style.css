@@ -1,0 +1,28 @@
+
+.box {
+	height: 210px;
+	width: 210px;
+	border: 2px solid black;
+	
+  }
+  
+  .dropDown {
+	width: 80%;
+	margin: 20px;
+  }
+  
+  .lime .box {
+	background-color: lime;
+  }
+  
+  .orangered .box {
+	background-color: orangered;
+  }
+  
+  .maroon .box {
+	background-color: maroon;
+  }
+  
+  .magenta .box {
+	background-color: magenta;
+  }
